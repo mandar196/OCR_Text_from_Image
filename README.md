@@ -8,6 +8,14 @@ Based on Maggioni's [secret-harbor app] (https://github.com/matteotiziano/secret
 
 This application is hosted on: https://tesseract-with-flask-python.herokuapp.com
 
+# Running the file:
+
+python ocr.py --image 1.jpg
+
+OR
+
+Live demo: https://tesseract-with-flask-python.herokuapp.com
+
 # Screesnshots:
 
 ![res1](https://user-images.githubusercontent.com/61036755/100515014-0fe73780-312e-11eb-9213-063272571af4.png)
